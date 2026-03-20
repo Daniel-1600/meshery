@@ -1,0 +1,1 @@
+Hi everyone, I’m Daniel Mungai. I’m a backend-focused developer interested in cloud-native systems and open source. I’ve been exploring Meshery and learning how it helps with service mesh management and performance insights. I’m excited to contribute, learn from the community, and get more involved in the ecosystem
